@@ -1,3 +1,5 @@
+#🛡️ **Welcome to my profile!** You’re now part of an exclusive list of visitors.
+
 #  About Me🚀:
 I'm currently working on backend technologies:- Node.js, Express, and MongoDB.
 
@@ -17,8 +19,6 @@ I'm currently working on backend technologies:- Node.js, Express, and MongoDB.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiki-tripathi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![Profile Views](https://profile-counter.glitch.me/kaushiki-tripathi/count.svg)
 
 
 ### ✍️ Random Dev Quote
