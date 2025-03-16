@@ -5,7 +5,7 @@ I'm currently working on backend technologies:- Node.js, Express, and MongoDB.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaushikitripathi_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/kaushiki-tripathi-5026aa293)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23E5555F.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/Kaushiki-Tripathi/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?logo=GitHub&logoColor=white)](https://github.com/kaushiki-tripathi)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23404d59.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/kaushikitripathi124)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%234ea94b.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/kaushikitripathi124)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
