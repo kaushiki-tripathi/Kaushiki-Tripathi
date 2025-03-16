@@ -1,5 +1,5 @@
 #  About Me🚀:
-I'm currently working backend technologies Node.js, Express, and MongoDB.
+I'm currently working on backend technologies:- Node.js, Express, and MongoDB.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaushikitripathi_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/kaushiki-tripathi-5026aa293)
