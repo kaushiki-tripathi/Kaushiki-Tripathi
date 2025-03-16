@@ -1,9 +1,9 @@
-🛡️ **Welcome to my profile!** 
-You’re now part of an exclusive list of visitors.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushiki-tripathi&label=Profile%20views&color=0e75b6&style=flat" alt="kaushiki-tripathi" /></p>
+<h1 align="center">Hi, I'm Kaushiki Tripathi</h1>
+<h3 align="center">Coding Enthusiast || Passionate about Algorithms & Web Development</h3>
 
-#  About Me🚀:
-I'm currently working on backend technologies:- Node.js, Express, and MongoDB.
+- 🔭 I’m currently pursuing Engineering in **Information Technology**
+
+- Currently Learning **Artificial Intelligence & Machine Learning**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaushikitripathi_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/kaushiki-tripathi-5026aa293)
