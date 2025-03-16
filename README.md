@@ -1,5 +1,6 @@
 🛡️ **Welcome to my profile!** 
 You’re now part of an exclusive list of visitors.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushiki-tripathi&label=Profile%20views&color=0e75b6&style=flat" alt="kaushiki-tripathi" /></p>
 
 #  About Me🚀:
 I'm currently working on backend technologies:- Node.js, Express, and MongoDB.
