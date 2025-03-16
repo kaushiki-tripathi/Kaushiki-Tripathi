@@ -18,7 +18,7 @@ I'm currently working on backend technologies:- Node.js, Express, and MongoDB.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiki-tripathi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kaushiki-tripathi)
+![Profile Views](https://profile-counter.glitch.me/kaushiki-tripathi/count.svg)
 
 
 ### ✍️ Random Dev Quote
