@@ -10,8 +10,9 @@
 
 ### 👩‍💻 About Me  
 
-- 🎓 Final-year IT student passionate about **problem-solving & scalable web apps** 
-- ⚡ Skilled in **DSA (C++), Full-Stack Web Development** 
+- 🎓 Final-year **Information Technology undergraduate** passionate about solving **real-world problems** with technology  
+- 💻 Proficient in **Full-Stack Web Development (MERN)** and **Data Structures & Algorithms in C++**  
+- 🏆 Holder of **Agentblazer Champion title on Salesforce Trailhead**  
 - 🌱 Currently working on **RailShield & Recipe-Generator** project.
 
 ---
@@ -61,11 +62,13 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=kaushiki-tripathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiki-tripathi&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaushiki-tripathi&style=for-the-badge&color=38b2ac" alt="Profile Views"/>
 </p>
+
 
 ---
 
@@ -78,3 +81,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/kaushiki-tripathi/RailShield-Project/main/frontend/src/assets/separator.gif" alt="Animated Separator">
 </p>
+
+---
+### 🤝 Let’s Connect  
+
+I’m always open to exciting opportunities in **Software Development | Full-Stack Development**.  
+📩 Reach me on [LinkedIn](https://www.linkedin.com/in/kaushiki-tripathi-5026aa293) or check out my [GitHub projects](https://github.com/kaushiki-tripathi).
