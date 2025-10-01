@@ -1,11 +1,10 @@
-<h1 align="center">👋 Hi, I'm Kaushiki Tripathi</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | C++ & DSA Enthusiast <br> Agentblazer Champion title on Salesforce trailhead</h3>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Lifelong+Learner;Full-Stack+Developer;ML+%26+Data+Analytics+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kaushiki+Tripathi+%F0%9F%91%8B;Aspiring+Software+Engineer;Full-Stack+Web+Developer+%7C+MERN+Stack;Data+Structures+%26+Algorithms+in+C%2B%2B;Machine+Learning+%26+Data+Analytics+Enthusiast;Building+Scalable+%26+Impactful+Applications" alt="Typing SVG" />
   </a>
 </div>
+  </a>
+</div><h3 align="center">Aspiring Software Engineer | Full-Stack Developer | C++ & DSA Enthusiast <br> Agentblazer Champion title on Salesforce trailhead</h3>
 
 ---
 
