@@ -13,7 +13,7 @@
 - 🎓 Final-year **Information Technology undergraduate** passionate about solving **real-world problems** with technology  
 - 💻 Proficient in **Full-Stack Web Development (MERN)** and **Data Structures & Algorithms in C++**  
 - 🏆 Holder of **Agentblazer Champion title on Salesforce Trailhead**  
-- 🌱 Currently working on **RailShield & Recipe-Generator** project.
+- 🌱 Currently working on **ChatStream** project.
 
 ---
 
