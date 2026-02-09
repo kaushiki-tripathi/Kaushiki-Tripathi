@@ -12,7 +12,7 @@
 
 - 🎓 Final-year **Information Technology undergraduate** passionate about solving **real-world problems** with technology  
 - 💻 Proficient in **Full-Stack Web Development (MERN)** and **Data Structures & Algorithms in C++**  
-- 🏆 Holder of **Agentblazer Champion title on Salesforce Trailhead**  
+- 🏆 Holder of **5 Star in Problem Solving on HackerRank**  
 - 🌱 Currently working on **ChatStream** project.
 
 ---
@@ -23,7 +23,6 @@
   <a href="https://www.linkedin.com/in/kaushiki-tripathi-5026aa293" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="https://github.com/kaushiki-tripathi" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2320232a.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>&nbsp;
   <a href="https://leetcode.com/u/Kaushiki-Tripathi/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-%23FFA116.svg?style=for-the-badge&logo=Leetcode&logoColor=white"></a>&nbsp;
-  <a href="https://kaggle.com/kaushikitripathi124" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300C4CC.svg?style=for-the-badge&logo=Kaggle&logoColor=white"></a>&nbsp;
   <a href="https://instagram.com/kaushikitripathi_._" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
 
@@ -32,19 +31,21 @@
 ### 🛠️ Tech Stack  
 
 **Languages**  
-![Java (Basic)](https://img.shields.io/badge/c-%23E4405F.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java)](https://img.shields.io/badge/Java(Basic)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 **Databases & Tools**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -52,6 +53,12 @@
 ![SQL](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+**Operating Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
