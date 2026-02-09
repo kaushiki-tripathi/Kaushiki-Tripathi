@@ -64,16 +64,12 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaushiki-tripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushiki-tripathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiki-tripathi&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-  
-</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaushiki-tripathi&style=for-the-badge&color=38b2ac" alt="Profile Views"/>
+  <img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=kaushiki-tripathi&theme=tokyonight&background=0D1117&border_radius=8"
+  alt="GitHub Streak Stats"
+/>
 </p>
 
 
