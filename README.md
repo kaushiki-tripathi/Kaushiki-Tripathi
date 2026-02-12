@@ -49,8 +49,9 @@
 
 **Databases & Tools**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -64,13 +65,15 @@
 
 ### 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushiki-tripathi&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=kaushiki-tripathi&theme=tokyonight&background=0D1117&border_radius=8"
-  alt="GitHub Streak Stats"
-/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaushiki-tripathi&theme=tokyonight&utcOffset=5.5" />
 </p>
+
+
 
 
 ---
