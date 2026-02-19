@@ -4,7 +4,7 @@
   </a>
 </div>
   </a>
-</div><h3 align="center">Aspiring Software Engineer | Full-Stack Developer | C++ & DSA Enthusiast <br> Agentblazer Champion title on Salesforce trailhead</h3>
+</div>
 
 ---
 
